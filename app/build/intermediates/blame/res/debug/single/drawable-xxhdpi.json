@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_email.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_keluar.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_keluar.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_tentang.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_tentang.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_telp.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_telp.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_info.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_password.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_username.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_username.png"
+    }
+]

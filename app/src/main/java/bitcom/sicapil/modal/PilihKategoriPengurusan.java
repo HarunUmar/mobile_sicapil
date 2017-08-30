@@ -18,14 +18,18 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import bitcom.sicapil.R;
+import bitcom.sicapil.adapter.AdapterSpKategoriPengurusan;
+import bitcom.sicapil.adapter.AdapterSpKepemilikanBerkas;
 
 public class PilihKategoriPengurusan extends AppCompatActivity {
 
     private EditText sipemilik;
-    private String[] germanFeminine = {
-            "Milik Sendiri",
-            "Orang Lain"
-    };
+
+    Spinner sp_kepemilikan_berkas;
+    String list_sp_kepemilikan_berkas[] = { "Pribadi","Keluarga","Kerabat","Tetangga" };
+
+    Spinner sp_kategori_pengurusan;
+    String list_sp_kategori_pengurusan[] = { "Baru","Perpanjang","Hilang" };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,6 +43,39 @@ public class PilihKategoriPengurusan extends AppCompatActivity {
         title.setText(getTitle);
 
         sipemilik = (EditText) findViewById(R.id.kepemilikan_berkas);
+
+        sp_kepemilikan_berkas = (Spinner) findViewById(R.id.sp_kepemilikan_berkas);
+        AdapterSpKepemilikanBerkas adapter = new AdapterSpKepemilikanBerkas(getApplicationContext(), list_sp_kepemilikan_berkas);
+        sp_kepemilikan_berkas.setAdapter(adapter);
+        sp_kepemilikan_berkas.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                String s = parent.getItemAtPosition(position).toString();
+                Toast.makeText(getApplicationContext(), s, Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
+
+        sp_kategori_pengurusan = (Spinner) findViewById(R.id.sp_kategori_pengurusan);
+        AdapterSpKategoriPengurusan adapter2 = new AdapterSpKategoriPengurusan(getApplicationContext(), list_sp_kategori_pengurusan);
+        sp_kategori_pengurusan.setAdapter(adapter2);
+        sp_kategori_pengurusan.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                String s = parent.getItemAtPosition(position).toString();
+                Toast.makeText(getApplicationContext(), s, Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
+
         Button btn_batal = (Button) findViewById(R.id.btn_batal);
         btn_batal.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -52,26 +89,6 @@ public class PilihKategoriPengurusan extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(getApplicationContext(), "Mulai Pengurusan", Toast.LENGTH_SHORT).show();
-            }
-        });
-
-        Spinner pemilik_berkas = (Spinner) findViewById(R.id.sp_pemilik_berkas);
-        final ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
-                android.R.layout.simple_spinner_item, germanFeminine);
-        pemilik_berkas.setAdapter(adapter);
-        pemilik_berkas.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-                if(i == 0){
-                    sipemilik.setText("nama");
-                }
-                else {
-                    sipemilik.setText(null);
-                    Toast.makeText(getApplicationContext(), "Silahkan Mengisi Nama Pemilik Berkas", Toast.LENGTH_SHORT).show();
-                }
-            }
-            @Override
-            public void onNothingSelected(AdapterView<?> adapterView) {
             }
         });
 
