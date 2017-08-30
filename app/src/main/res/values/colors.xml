@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bf9a</color>
+    <color name="colorPrimaryDark">#008066</color>
+    <color name="colorAccent">#80ff80</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="green_l5">#e6fffa</color>
+    <color name="green_l4">#b3fff0</color>
+    <color name="green_l3">#66ffe0</color>
+    <color name="green_l2">#1affd1</color>
+    <color name="green_l1">#00e6b8</color>
+    <color name="green">#00bf9a</color>
+    <color name="green_d1">#00b38f</color>
+    <color name="green_d2">#00997a</color>
+    <color name="green_d3">#008066</color>
+    <color name="green_d4">#006652</color>
+    <color name="green_d5">#004d3d</color>
+
+    <color name="page">#b3fff0</color>
+
+    <color name="form">#ffffff</color>
+    <color name="hint">#66ffe0</color>
+
+    <color name="line_break">#e7e7e7</color>
+
+</resources>
