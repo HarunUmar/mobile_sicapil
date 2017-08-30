@@ -21,7 +21,7 @@ import bitcom.sicapil.R;
 
 public class PilihKategoriPengurusan extends AppCompatActivity {
 
-    private EditText Kepemilikan_berkas;
+    private EditText sipemilik;
     private String[] germanFeminine = {
             "Milik Sendiri",
             "Orang Lain"
@@ -38,7 +38,7 @@ public class PilihKategoriPengurusan extends AppCompatActivity {
         TextView title = (TextView) findViewById(R.id.txt_title);
         title.setText(getTitle);
 
-        Kepemilikan_berkas = (EditText) findViewById(R.id.kepemilikan_berkas);
+        sipemilik = (EditText) findViewById(R.id.kepemilikan_berkas);
         Button btn_batal = (Button) findViewById(R.id.btn_batal);
         btn_batal.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -62,12 +62,13 @@ public class PilihKategoriPengurusan extends AppCompatActivity {
         pemilik_berkas.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-                if(i == 1){
-
-
+                if(i == 0){
+                    sipemilik.setText("nama");
                 }
-
-                Toast.makeText(getApplicationContext(), "Pemilik Berkas  "+ adapter.getItem(i) +""+i+"", Toast.LENGTH_SHORT).show();
+                else {
+                    sipemilik.setText(null);
+                    Toast.makeText(getApplicationContext(), "Silahkan Mengisi Nama Pemilik Berkas", Toast.LENGTH_SHORT).show();
+                }
             }
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
