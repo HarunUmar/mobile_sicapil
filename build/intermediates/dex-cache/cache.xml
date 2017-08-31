@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\bf24fd44b1b1eacf2f646f256e89d183622a301b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_bdcca1e65a7f0bddb9a21d12d8a50b5f79a39226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_2a13ee60e09bb431c0b29401947304b4fb839c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\9270042b498bb0c6512ace6435202b2bbe098114\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_a9fe4fdeda2279ceb13b093931496a6217189cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\a8776b553a8799979b4cbe0008d7c0f1dd5a8482\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_f80cabc7f68eb00a78b31f51da0cad9e4734ea2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\e63640080dfa007c8d7f20e17348f1350152d448\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_355c0d94fb513c9b6f86ed12d22828ff4cc9ae9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\d855948ec1f8df2070d7ec25496cccfb18acc596\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5035aaf60d244038bb143ffad4fbb7cba92ecdc7">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_7c24d62007e239755dbbdeb1e937c9e3dd700bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\4065eedc6dc22def614f3ec719557cb6377887dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_e4b246d0ed2a69294404ea93e5d151f177dd7853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\75f24af408acb6ec1a02a5117892ddb2a7e1fb69\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_aa1a70309dc19faf41c4e8a9562d5daf483627e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\75d1eb35c47bed4fe43e897c6c3ee377f34e373c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_412f6a16e8a4da26a9b13f0ce068cf00212a8317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_685a7403726203399b83b7b860df71fafce867b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.7\ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1\kenburnsview-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\kenburnsview-1.0.7_ff69d06d91af69ff6703475c0fdf88ff54cfd930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\75f24af408acb6ec1a02a5117892ddb2a7e1fb69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_c2f91aa90914669f21f487fe48eff43715e7172d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\8e8039a8ced376f28016ca903c81406acdac83ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_88902b1506cf67373e94f471be4fe39c2a31caa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\e7259d8296c0e35a798620333b09f3ddec1425d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_d2269de9caa298d688524c913b53794dc6d5a7da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\61d9d9fe0794cb48af32947c6d920f61b6154110\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_c91193e925f46b6159b7216ee15771f57fc818db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\6891ccbbb2c7f2e52f5cac0c313a7a5e2297694a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_798ce2486a6592cc6e221a2a0594475a99f9c48a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\8d5efe9319f73a90bbdcfce1978f11aed5eb47b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_db27c03d6f0c88080c183405fe6c070c00e478b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\f0fc4e3ea8dec131849ff951349cbad30c81b155\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_6c6820b13f39143c22a77795b247694da83f497f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\61d9d9fe0794cb48af32947c6d920f61b6154110\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_41d8ea99bbf224c31ce7067fb0367a3526928c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_7129958383a91fcec408e7fd23ce5e9b47e32b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\library-2.4.0_3ef94e09855a6652aaf59a77512793e342abd46a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\4065eedc6dc22def614f3ec719557cb6377887dd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_04cd6d959dfb9e9d83abfd01d428683b9892244a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\9270042b498bb0c6512ace6435202b2bbe098114\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_8412a524f4f8a9801ce3a0ab1a20b98ba3ba45c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\bf24fd44b1b1eacf2f646f256e89d183622a301b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_257f43082b53ff8bded92c4b74d288298601c01b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.android\build-cache\4708730abfddfe8590de88583c512683acd20502\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\classes_59067802bb481c16f93bdf0abd5ecc959a609c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C U S T O M E R\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android Project\bitcom\mobile_sicapil\app\build\intermediates\pre-dexed\release\picasso-2.5.2_dfe2df108b3f47fcedc1a2f6c1c2c5a339333b2d.jar" />
+    </item>
+
+</items>

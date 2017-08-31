@@ -7,4 +7,8 @@
     <string name="action_settings">Settings</string>
 
     <string name="slogan"> Sistem Pencatatan Sipil Online</string>
+
+    <string name="label_sp_kepemilikan_berkas">Kepemilikan Berkas</string>
+    <string name="label_sp_kategori_pengurusan">Kategori Pengurusan</string>
+
 </resources>

@@ -94,14 +94,6 @@ public class PageHome extends Fragment implements BaseSliderView.OnSliderClickLi
         mDemoSlider.setDuration(4000);
         mDemoSlider.addOnPageChangeListener(this);
 
-        new Handler().postDelayed(new Runnable() {
-
-            @Override
-            public void run() {
-                hideLoader();
-            }
-        }, 2000);
-
         mRecyclerView = (RecyclerView) view.findViewById(R.id.my_recycler_view);
         mRecyclerView.setHasFixedSize(true);
         mLayoutManager = new LinearLayoutManager(getActivity(), LinearLayoutManager.VERTICAL, false);
@@ -116,8 +108,6 @@ public class PageHome extends Fragment implements BaseSliderView.OnSliderClickLi
     }
 
     public void loadDataJenisPengurusan() {
-
-
         JsonArrayRequest arrReq = new JsonArrayRequest(URL_BACKEND +"get_jenis_pengurusan.php",
                 new Response.Listener<JSONArray>() {
                     @Override
@@ -130,13 +120,14 @@ public class PageHome extends Fragment implements BaseSliderView.OnSliderClickLi
                                     DataJenisPengurusan dt = new DataJenisPengurusan();
                                     dt.set_id_jenis_pengurusan(obj.getString("id_jenis_pengurusan"));
                                     dt.set_jenis_pengurusan("Jenis Pengurusan "+obj.getString("jenis_pengurusan"));
-                                    dt.set_label(String.valueOf(i));
+                                    dt.set_label(String.valueOf(i+1));
                                     mDataset.add(dt);
                                 } catch (JSONException e) {
                                     Log.e(TAG, "JSON Parsing error: " + e.getMessage());
                                 }
                                 mAdapter.notifyDataSetChanged();
                             }
+                            hideLoader();
                         }
                     }
                 }, new Response.ErrorListener() {
@@ -148,7 +139,6 @@ public class PageHome extends Fragment implements BaseSliderView.OnSliderClickLi
         });
         AppController.getInstance().addToRequestQueue(arrReq);
     }
-
 
     private void animPageLabel() {
         animation = AnimationUtils.loadAnimation(getActivity(),
