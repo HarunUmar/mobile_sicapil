@@ -2,5 +2,9 @@
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

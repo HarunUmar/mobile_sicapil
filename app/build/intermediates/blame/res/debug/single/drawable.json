@@ -1,43 +1,43 @@
 [
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_large.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\app_icon_large.png"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\e7259d8296c0e35a798620333b09f3ddec1425d0\\output\\res\\drawable\\indicator_corner_bg.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_orange.xml",
-        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\badge_orange.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_btn_cencel.xml",
-        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\gradient_btn_cencel.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\awal.png",
-        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\awal.png"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
-        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\circle_green.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\circle_green.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -52,40 +52,64 @@
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_large.png",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\app_icon_large.png"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\btn_white.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\8b04d64a0943abd2e25a8c286f2fcc0327e8982d\\output\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -96,12 +120,24 @@
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\btn_cancel.xml"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\n1.jpg",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\n1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\box_white.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\box_white.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
@@ -120,6 +156,178 @@
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\awal.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\awal.png"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\8e8039a8ced376f28016ca903c81406acdac83ea\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ok.xml",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\btn_ok.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ok.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\btn_ok.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\btn_cancel.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_orange.xml",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\badge_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_btn_ok.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\gradient_btn_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_btn_cencel.xml",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\gradient_btn_cencel.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\awal.png",
+        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\awal.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_btn_ok.xml",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\gradient_btn_ok.xml"
     },
@@ -134,6 +342,10 @@
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_orange.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\badge_orange.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -152,20 +364,24 @@
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\btn_white.xml"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\n1.jpg",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\n1.jpg"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\circle_green.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
-        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\app_icon.png"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -180,8 +396,8 @@
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\8e8039a8ced376f28016ca903c81406acdac83ea\\output\\res\\drawable\\design_ic_visibility.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_btn_cencel.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\gradient_btn_cencel.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -192,20 +408,16 @@
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ok.xml",
-        "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\drawable\\btn_ok.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
@@ -216,7 +428,15 @@
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\d2f12d5fc8e2718dadb2ee015c0ded2de2dcdcfc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\29e89c094647ee5c7b7ba755058884e83fac0a76\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\drawable\\app_icon.png"
     }
 ]

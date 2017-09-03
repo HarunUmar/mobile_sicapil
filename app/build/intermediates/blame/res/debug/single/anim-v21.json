@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\8e8039a8ced376f28016ca903c81406acdac83ea\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
@@ -10,5 +18,9 @@
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\C U S T O M E R\\.android\\build-cache\\8e8039a8ced376f28016ca903c81406acdac83ea\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\root\\.android\\build-cache\\31b6eff571c743799c5e40b32f1272dead0de6e2\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     }
 ]

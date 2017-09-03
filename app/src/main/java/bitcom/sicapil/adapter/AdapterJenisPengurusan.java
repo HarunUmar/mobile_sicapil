@@ -57,7 +57,7 @@ public class AdapterJenisPengurusan extends RecyclerView.Adapter<AdapterJenisPen
         holder.body_item.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                openPilihKategoriPengurusan(data.get_label());
+                openPilihKategoriPengurusan(data.get_label(),data.get_id_jenis_pengurusan());
             }
         });
     }
@@ -67,9 +67,10 @@ public class AdapterJenisPengurusan extends RecyclerView.Adapter<AdapterJenisPen
         return mDataset.size();
     }
 
-    public void openPilihKategoriPengurusan(String title) {
+    public void openPilihKategoriPengurusan(String title, String id_jenis_pungurusan) {
         Intent i = new Intent(activity, PilihKategoriPengurusan.class);
         i.putExtra("title", title);
+        i.putExtra("id_jenis_pengurusan",id_jenis_pungurusan);
         activity.startActivity(i);
     }
 

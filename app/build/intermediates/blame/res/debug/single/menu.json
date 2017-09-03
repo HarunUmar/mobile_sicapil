@@ -6,5 +6,13 @@
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     }
 ]

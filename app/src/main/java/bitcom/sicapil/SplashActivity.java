@@ -11,6 +11,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import bitcom.sicapil.util.Session;
+
 public class SplashActivity extends AppCompatActivity {
     private Animation animation;
     private ImageView logo;
@@ -20,25 +22,19 @@ public class SplashActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Session session = new Session(getApplicationContext(),SplashActivity.this);
+        session.checkLogin();
         setContentView(R.layout.activity_splash);
-
         logo = (ImageView) findViewById(R.id.logo_img);
         appTitle = (TextView) findViewById(R.id.track_txt);
         appSlogan = (TextView) findViewById(R.id.pro_txt);
-
-        // Font path
         String fontPath = "font/CircleD_Font_by_CrazyForMusic.ttf";
-        // Loading Font Face
         Typeface tf = Typeface.createFromAsset(getAssets(), fontPath);
-
-        // Applying font
         appTitle.setTypeface(tf);
         appSlogan.setTypeface(tf);
-
         if (savedInstanceState == null) {
             flyIn();
         }
-
         new Handler().postDelayed(new Runnable() {
 
             @Override
@@ -46,6 +42,7 @@ public class SplashActivity extends AppCompatActivity {
                 endSplash();
             }
         }, 4000);
+
     }
 
     private void flyIn() {
@@ -97,6 +94,5 @@ public class SplashActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        // Do nothing
     }
 }

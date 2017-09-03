@@ -93,6 +93,22 @@
                     android:layout_marginLeft="7dp"
                     android:layout_marginRight="7dp"
                     android:layout_marginTop="5dp"
+                    android:text="Kategori Jenis Pengurusan?" />
+
+                <Spinner
+                    android:id="@+id/sp_kategori_pengurusan"
+                    android:drawSelectorOnTop="true"
+                    android:prompt="@string/label_sp_kategori_pengurusan"
+                    android:layout_margin="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="7dp"
+                    android:layout_marginTop="5dp"
                     android:text="Kepemilikan Berkas?" />
 
                 <Spinner
@@ -118,21 +134,7 @@
                     android:layout_marginLeft="7dp"
                     android:layout_marginRight="7dp" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="7dp"
-                    android:layout_marginRight="7dp"
-                    android:layout_marginTop="5dp"
-                    android:text="Kategori Jenis Pengurusan?" />
 
-                <Spinner
-                    android:id="@+id/sp_kategori_pengurusan"
-                    android:drawSelectorOnTop="true"
-                    android:prompt="@string/label_sp_kategori_pengurusan"
-                    android:layout_margin="5dp"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
 
                 <View
                     android:layout_width="match_parent"

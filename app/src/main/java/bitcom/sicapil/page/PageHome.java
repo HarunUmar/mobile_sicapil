@@ -1,7 +1,6 @@
 package bitcom.sicapil.page;
 
 import android.os.Bundle;
-import android.os.Handler;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -61,7 +60,6 @@ public class PageHome extends Fragment implements BaseSliderView.OnSliderClickLi
         showLoader();
 
         page_label = (TextView) view.findViewById(R.id.page_label);
-
         if (savedInstanceState == null) {
             //animPageLabel();
         }
@@ -176,7 +174,5 @@ public class PageHome extends Fragment implements BaseSliderView.OnSliderClickLi
         ((MainActivity) getContext()).showLoader();
     }
 
-    public void hideLoader() {
-        ((MainActivity) getContext()).hideLoader();
-    }
+    public void hideLoader() {((MainActivity) getContext()).hideLoader();}
 }

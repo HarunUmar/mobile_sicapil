@@ -7,31 +7,31 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
-
+import java.util.List;
 import bitcom.sicapil.R;
+import bitcom.sicapil.data.DataKategoriPengurusan;
 
-public class AdapterSpKategoriPengurusan extends ArrayAdapter<String> {
+public class AdapterSpKategoriPengurusan extends ArrayAdapter{
 
     Context c;
-    String[] item;
+    TextView txtLabel;
+    List<DataKategoriPengurusan> Kitem;
 
-    public AdapterSpKategoriPengurusan(Context ctx, String[] item) {
-        super(ctx, R.layout.item_sp_kategori_pengurusan, item);
+    public AdapterSpKategoriPengurusan(Context ctx, List<DataKategoriPengurusan> item) {
+        super(ctx, R.layout.item_sp_kategori_pengurusan,item);
         this.c = ctx;
-        this.item = item;
+        this.Kitem= item;
     }
-
     @Override
     public View getDropDownView(int position, View convertView, ViewGroup parent) {
         if(convertView==null) {
             LayoutInflater inflater = (LayoutInflater) c.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView = inflater.inflate(R.layout.item_sp_kategori_pengurusan, null);
         }
-        TextView txtLabel = (TextView) convertView.findViewById(R.id.txtLabel);
-
-        txtLabel.setText(item[position]);
-
+        txtLabel = (TextView) convertView.findViewById(R.id.txtLabel);
+        TampilKategori(txtLabel,position);
         return convertView;
+
     }
 
     @NonNull
@@ -41,10 +41,15 @@ public class AdapterSpKategoriPengurusan extends ArrayAdapter<String> {
             LayoutInflater inflater = (LayoutInflater) c.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView = inflater.inflate(R.layout.item_sp_kategori_pengurusan, null);
         }
-        TextView txtLabel = (TextView) convertView.findViewById(R.id.txtLabel);
-
-        txtLabel.setText(item[position]);
-
+        txtLabel = (TextView) convertView.findViewById(R.id.txtLabel);
+        TampilKategori(txtLabel,position);
         return convertView;
     }
+
+    public void TampilKategori(TextView lebel, int posisi){
+        DataKategoriPengurusan items = Kitem.get(posisi);
+        lebel.setText(items.get_nama_kategori());
+
+    }
+
 }

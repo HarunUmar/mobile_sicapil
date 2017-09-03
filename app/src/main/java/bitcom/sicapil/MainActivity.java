@@ -1,6 +1,5 @@
 package bitcom.sicapil;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -14,11 +13,15 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.RelativeLayout;
+import android.widget.TextView;
+
+import java.util.HashMap;
 
 import bitcom.sicapil.page.PageHome;
 import bitcom.sicapil.page.PageInfo;
 import bitcom.sicapil.page.PageSetting;
 import bitcom.sicapil.page.PageTentang;
+import bitcom.sicapil.util.Session;
 import bitcom.sicapil.util.Utils;
 
 public class MainActivity extends AppCompatActivity
@@ -42,9 +45,15 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+        View header = navigationView.getHeaderView(0);
+        TextView user_nama = (TextView) header.findViewById(R.id.user_nama);
+        TextView user_email = (TextView) header.findViewById(R.id.user_email);
+        Session sesi = new Session(getApplicationContext(),MainActivity.this);
+        HashMap<String,String> user = sesi.getUserDetails();
+        user_nama.setText(user.get("nama"));
+        user_email.setText(user.get("email"));
 
         loader = (RelativeLayout) findViewById(R.id.loader);
-
         goPageHome();
     }
 
@@ -90,10 +99,8 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_tentang) {
             Utils.switchFragment(R.id.frag_container, new PageTentang(), this);
         } else if (id == R.id.nav_keluar) {
-            Intent i = new Intent(getApplicationContext(),
-                    LoginActivity.class);
-            startActivity(i);
-            finish();
+            Session session = new Session(getApplicationContext(),MainActivity.this);
+            session.Keluar();
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

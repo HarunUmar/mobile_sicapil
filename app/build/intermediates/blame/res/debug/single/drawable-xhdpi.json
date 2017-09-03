@@ -4,6 +4,10 @@
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_tentang.png"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_email.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info.png",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
     },
@@ -16,8 +20,32 @@
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_telp.png"
     },
     {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_telp.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_telp.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_tentang.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_tentang.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_password.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_email.png",
         "source": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_username.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_username.png"
+    },
+    {
+        "merged": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_keluar.png",
+        "source": "C:\\Users\\root\\Downloads\\Compressed\\sicapil\\sicapil\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_keluar.png"
     },
     {
         "merged": "E:\\Android Project\\bitcom\\mobile_sicapil\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_password.png",

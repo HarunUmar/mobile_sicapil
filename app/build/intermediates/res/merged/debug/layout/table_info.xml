@@ -32,77 +32,12 @@
         android:layout_height="2dip"
         android:background="@color/green_l3" />
 
-    <TableRow
-        android:layout_marginTop="3dp">
-        <TextView
-            android:text="1"
-            android:textColor="@color/black"
-            android:gravity="center"
-            android:padding="3dip" />
-        <TextView
-            android:text="Kartu Keluarga"
-            android:textColor="@color/black"
-            android:padding="3dip" />
-        <TextView
-            android:text="07 Agustus 2017"
-            android:textColor="@color/black"
-            android:gravity="right"
-            android:padding="3dip" />
-        <TextView
-            android:background="@drawable/btn_ok"
-            android:text="on process"
-            android:textColor="@color/white"
-            android:gravity="center"
-            android:layout_marginLeft="2dp"
-            android:padding="3dip" />
-    </TableRow>
-    <TableRow
-        android:layout_marginTop="3dp">
-        <TextView
-            android:text="2"
-            android:textColor="@color/black"
-            android:gravity="center"
-            android:padding="3dip" />
-        <TextView
-            android:text="Kartu Tanda Penduduk"
-            android:textColor="@color/black"
-            android:padding="3dip" />
-        <TextView
-            android:text="09 Agustus 2017"
-            android:textColor="@color/black"
-            android:gravity="right"
-            android:padding="3dip" />
-        <TextView
-            android:background="@drawable/btn_ok"
-            android:text="process"
-            android:textColor="@color/white"
-            android:gravity="center"
-            android:layout_marginLeft="2dp"
-            android:padding="3dip" />
-    </TableRow>
-    <TableRow
-        android:layout_marginTop="3dp">
-        <TextView
-            android:text="3"
-            android:textColor="@color/black"
-            android:gravity="center"
-            android:padding="3dip" />
-        <TextView
-            android:text="Akta Pernikahan"
-            android:textColor="@color/black"
-            android:padding="3dip" />
-        <TextView
-            android:text="12 Agustus 2017"
-            android:textColor="@color/black"
-            android:gravity="right"
-            android:padding="3dip" />
-        <TextView
-            android:background="@drawable/btn_ok"
-            android:text="complete"
-            android:textColor="@color/white"
-            android:gravity="center"
-            android:layout_marginLeft="2dp"
-            android:padding="3dip" />
-    </TableRow>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/info_recycler_view"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+
 
 </TableLayout>
